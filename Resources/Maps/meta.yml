@@ -68530,7 +68530,7 @@ entities:
     - type: Transform
       pos: 22.49562,40.410313
       parent: 5350
-- proto: ClothingOuterStraightjacket
+- proto: ClothingOuterStraitjacket
   entities:
   - uid: 7309
     components:

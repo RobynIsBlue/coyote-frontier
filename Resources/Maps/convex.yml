@@ -103744,7 +103744,7 @@ entities:
     - type: Transform
       pos: 70.53574,162.71033
       parent: 1
-- proto: ClothingOuterStraightjacket
+- proto: ClothingOuterStraitjacket
   entities:
   - uid: 28664
     components:

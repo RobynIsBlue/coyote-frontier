@@ -78313,7 +78313,7 @@ entities:
     - type: Transform
       pos: -62.72896,70.74297
       parent: 2
-- proto: ClothingOuterStraightjacket
+- proto: ClothingOuterStraitjacket
   entities:
   - uid: 8722
     components:

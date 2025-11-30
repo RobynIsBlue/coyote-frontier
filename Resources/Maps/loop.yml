@@ -41783,7 +41783,7 @@ entities:
     - type: Transform
       pos: -61.695427,60.445522
       parent: 2
-- proto: ClothingOuterStraightjacket
+- proto: ClothingOuterStraitjacket
   entities:
   - uid: 5014
     components:
